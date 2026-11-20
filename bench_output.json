@@ -1,0 +1,21 @@
+{
+  "arm": "local-x64",
+  "branch": "bench/local-x64",
+  "commit_sha": "5eaee0cc9024eb9e9a99469199920c8b7f5cb9ec",
+  "host_os": "Linux x86_64",
+  "cpu_count": 4,
+  "cmake_source": "venv-pip",
+  "build_wall_s": 216.85,
+  "ctest_passed": "6/6 tests passed",
+  "model_used": "models/ggml-tiny.en.bin",
+  "jfk_transcript_verified": true,
+  "runs_ms": [
+    3651.84,
+    2166.5,
+    3351.11,
+    2122.65,
+    1739.36
+  ],
+  "p50_ms": 2166.5,
+  "p95_ms": 3651.84
+}
