@@ -1,0 +1,21 @@
+{
+  "arm": "remote-agent",
+  "branch": "bench/remote-agent",
+  "commit_sha": "5eaee0cc9024eb9e9a99469199920c8b7f5cb9ec",
+  "host_os": "Linux x86_64",
+  "cpu_count": 2,
+  "cmake_source": "system",
+  "build_wall_s": 149.0,
+  "ctest_passed": 6,
+  "model_used": "models/ggml-tiny.en.bin",
+  "jfk_transcript_verified": true,
+  "runs_ms": [
+    2130.1,
+    2183.5,
+    2095.38,
+    2112.56,
+    2159.86
+  ],
+  "p50_ms": 2130.1,
+  "p95_ms": 2183.5
+}
